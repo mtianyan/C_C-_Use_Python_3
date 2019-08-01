@@ -1,0 +1,2 @@
+gcc -fPIC -shared mymodule_wrap.c -o _mymodule.so -I/usr/include/python2.7/ -lpython2.7
+cl /LD mymodule_wrap.c /o _mymodule.pyd -IC:\Users\tiany\AppData\Local\Programs\Python\Python37\include C:\Users\tiany\AppData\Local\Programs\Python\Python37\libs\python37.lib

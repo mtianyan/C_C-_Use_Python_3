@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+great_module/__init__.py
+great_module/great_module.pyd
+great_module.egg-info/PKG-INFO
+great_module.egg-info/SOURCES.txt
+great_module.egg-info/dependency_links.txt
+great_module.egg-info/top_level.txt

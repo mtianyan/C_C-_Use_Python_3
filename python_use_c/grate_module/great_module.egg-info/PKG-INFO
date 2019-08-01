@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: great-module
+Version: 0.0.7
+Summary: mtianyan's great_module tool
+Home-page: http://blog.mtianyan.cn
+Author: mtianyan
+Author-email: mtianyan@qq.com
+License: MIT Licence
+Description: mtianyan's tool
+Keywords: pip,great_module
+Platform: any

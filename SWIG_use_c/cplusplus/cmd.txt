@@ -1,0 +1,1 @@
+cl /LD great_class_wrap.cxx /o _great_class.pyd -IC:\Users\tiany\AppData\Local\Programs\Python\Python37\include C:\Users\tiany\AppData\Local\Programs\Python\Python37\libs\python37.lib
